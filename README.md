@@ -8,7 +8,7 @@ This repository provides a **user-friendly GPA Calculator** and **Attendance Cal
 - Calculates your GPA based on course codes and your target or expected grades.
 
 ### Attendance Calculator:
-- Determines the minimum number of hours required to meet the 75% attendance threshold.
+- Determines the minimum number of hours class required to meet the 75% attendance threshold.
 
 
 ## 🔗 [Access the Google Sheet Here](https://docs.google.com/spreadsheets/d/1rLpAoB7KL3FkivI8oXWibkxdqsTijvxXtkNb0er5cDI/edit?gid=294273360#gid=294273360/)
