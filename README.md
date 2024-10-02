@@ -15,7 +15,7 @@ Allocate hours into specific lectures, tutorials, or practicals.
 Wake you up for morning classes.
 Usage: Input your current attendance and total credit hours to track how many hours you still need to attend.
 
-## [Access the Google Sheet] (https://docs.google.com/spreadsheets/d/1rLpAoB7KL3FkivI8oXWibkxdqsTijvxXtkNb0er5cDI/edit?gid=294273360#gid=294273360)
+## [Access the Google Sheet](https://docs.google.com/spreadsheets/d/1rLpAoB7KL3FkivI8oXWibkxdqsTijvxXtkNb0er5cDI/edit?gid=294273360#gid=294273360/)
 You can access the GPA & Attendance Calculator through this Google Sheets link. 
 
 Note: Make sure to create a copy of the document so you can edit and input your own data.
